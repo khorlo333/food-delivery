@@ -13,7 +13,7 @@ export default function LoginPage() {
         <p>Sign up to explore your favorite dishes.</p>
       </div>
       <Input />
-      <Button variant="outline" className="bg-slate-400 text-white">
+      <Button variant="ghost" className="bg-slate-400 text-white">
         Let's Go
       </Button>
       <p className="self-center">
